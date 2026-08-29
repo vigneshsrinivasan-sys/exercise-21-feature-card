@@ -1,6 +1,6 @@
 # Exercise 21 — Feature Card
 
-[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-21-feature-card/) · [HTML source](index.html) · [CSS source](styles.css)
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-21-feature-card/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
