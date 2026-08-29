@@ -1,6 +1,6 @@
 # Exercise 21 — Feature Card
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-21-feature-card/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-21-feature-card)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-21-feature-card/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ Six capabilities are represented with reusable card classes, borders, transform 
 ## Sequence
 
 **Exercise 21 of 27** · Independent practice
-
